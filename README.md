@@ -1,0 +1,2 @@
+# wavexavier
+gstreamer pipeline
